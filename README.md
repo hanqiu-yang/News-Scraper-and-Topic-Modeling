@@ -5,4 +5,4 @@
 - Use LDA topic modeling to analysis the clean content to see what are the trending topics.
 - Visualize the results using word cloud.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![topictoday](https://user-images.githubusercontent.com/55762821/85303407-6dd56c00-b478-11ea-82b5-b1240670559c.png)
